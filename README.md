@@ -5,5 +5,4 @@ lower production cost by reducing electricity generation from coal or natural ga
 * We perform a unique train/validation/test splitting to adjust for seasonality as shown
 * Here are some of the highlighted images from our analysis & predictions.
 ![image](https://drive.google.com/uc?export=view&id=1OAxYddbTtNz1nuWsuuMxXxetMRob_xES)
-![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
 # Credits
