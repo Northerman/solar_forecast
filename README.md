@@ -9,4 +9,8 @@ lower production cost by reducing electricity generation from coal or natural ga
 ![image](https://drive.google.com/uc?export=view&id=1OAxYddbTtNz1nuWsuuMxXxetMRob_xES)
 
 # Credits
+* This project wouldn't be possible without my colleagues. Big thanks to them!
+  * Napattarapon P.
+  * Chayanont P.
+  
 
